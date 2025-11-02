@@ -4,6 +4,6 @@ title: Welcome
 ---
 
 # 👋 Welcome to 555111.info
-Please add what your suggested tools in Github Discussion, after check we will add to this website.
+请在 Github Discussion 写上您推荐的tools，经过核查后会添加到本网站。
 
 👉 You can create new posts inside the `_posts/` folder.

@@ -16,7 +16,7 @@ title: 欢迎
 > 我们相信：**访问自由、信息透明与独立思考，是互联网存在的根本意义。**
 
 📘 如果你想投稿、推荐工具或分享经验，  
-请前往 [GitHub Discussion](https://github.com/555111-info/555111.info/discussions) 参与交流。  
+请前往 [GitHub Discussion](https://github.com/555111-info/555111-info.github.io/discussions) 参与交流。  
 经过审核后，优秀内容将收录到本站文章中。
 
 👉 Website owner can create new posts inside the `_posts/` folder.
@@ -33,7 +33,7 @@ title: 欢迎
 
 ### 🔗 推荐阅读
 
-- [555111.info：新的起点，通向自由的网络世界](https://555111.info/555111-info-new-beginning)
+- [555111.info：新的起点，通向自由的网络世界]({% link _posts/2025-11-02-555111-info-new-beginning.md %})
 
 ---
 

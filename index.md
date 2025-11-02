@@ -25,7 +25,7 @@ title: 欢迎
 
 ### ⚙️ 如何参与
 
-1. Fork 本站仓库（[GitHub Source](https://github.com/555111-info/555111.info)）  
+1. Fork 本站仓库（[GitHub Source](https://github.com/555111-info/555111-info.github.io)）  
 2. 在 `_posts/` 文件夹中添加你的文章（Markdown 格式）  
 3. 提交 Pull Request，等待合并  
 

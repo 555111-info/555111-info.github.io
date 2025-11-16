@@ -3,7 +3,6 @@ layout: home
 title: 欢迎
 ---
 
-# Banner
 <div style="text-align:center; margin: 0 0 1rem;">
 	<img src="{{ '/assets/logo1.png' | relative_url }}" alt="555111.info banner" style="width:100%; max-width:900px; height:auto; object-fit:cover;">
 </div>

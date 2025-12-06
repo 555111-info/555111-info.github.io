@@ -7,9 +7,7 @@ title: 欢迎
 	<img src="{{ '/assets/logo1.png' | relative_url }}" alt="555111.info banner" style="width:100%; max-width:900px; height:auto; object-fit:cover;">
 </div>
 
-# 🧭 关于 555111.info / About 555111.info
-
-**555111.info** 是一个面向帮读者获取真相的网站。  
+## **555111.info** 是一个面向帮读者获取真相的网站。  
 
 
 > 我们相信：访问自由、信息透明与独立思考，是互联网存在的根本意义。  

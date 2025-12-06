@@ -51,7 +51,7 @@ description: "555111.info 的新篇章——介绍网站将关注的主题：翻
 ## 🔧 四、未来的内容规划
 
 - TBD
-- 读者互动：开放讨论区（Discussions / Forum），欢迎分享经验与提问  
+- 读者互动：[GitHub Discussion](https://github.com/555111-info/555111-info.github.io/discussions)，欢迎分享经验与提问  
 
 ---
 

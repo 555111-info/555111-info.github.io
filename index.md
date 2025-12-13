@@ -26,4 +26,12 @@ title: 欢迎
 - [网络自由的思想与哲学 / Philosophy of Internet Freedom]({{ '/freedom-philosophy/' | relative_url }})  
 - [GitHub Discussion](https://github.com/555111-info/555111-info.github.io/discussions)
 
+## 📰 最新文章 / Latest posts
+
+<ul>
+	{% for post in site.posts limit:5 %}
+		<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> — <small>{{ post.date | date: "%Y-%m-%d" }}</small></li>
+	{% endfor %}
+</ul>
+
 _Last updated: {{ site.time | date: '%Y-%m-%d' }}_
